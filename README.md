@@ -11,7 +11,7 @@ This project utilized the benefits of multiple technologies such as
 - JavaScript
  
 ### Prerequisites
-You will need to install visual studio code. 
+You will need to install Visual Studio code. 
 
 ## Installing☔
 
