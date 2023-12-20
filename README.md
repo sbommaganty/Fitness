@@ -1,32 +1,17 @@
-# Kshitij Dhyani  
-
-![My Banner](/banner.png)
-
-# Wimpy Warlord 👽
-![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
-
-**I pump iron during the day and smash my keyboard in the night.🐙** 
-
-## Goodmorning Girlfriend 🐕
-
-“Does your **girlfriend** complain about you not wishing them **goodmorning** or **goodnight** ? Are you loosing the **spark** in your relationship ? Or have you just become too **lazy** to type a **long** ass message every morning and night?”  
-  
-Well not anymore ! Get delicately drafted messages on a tap distance away. Wish your loved one each day everyday hassle free with no efforts what so ever.  
-  
-A smarter way to a long lasting relationship.
-
-![My Product](/website.png)
-
+## 
+Welcome to the Fitness Website! This project is designed to help users track their fitness journey, access workout routines, and stay motivated on their fitness goals. Whether you're a beginner or an experienced fitness enthusiast, our website has something for everyone.
+ 
 **Link to the website** : https://goodmorning-girlfriend.herokuapp.com/#/
 
 ## Getting Started 🎧
 
-This project utilized the benefits of multiple technologies such as javascript , HTML5 , css , scss.
-Its better if we familiarize ourselves with these technologies. 
+This project utilized the benefits of multiple technologies such as 
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+ 
 ### Prerequisites
-[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.instagram.com/kshitij_dhyani/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
-
-You will need to install vue.js, and node.js. 
+You will need to install visual studio code. 
 
 ## Installing☔
 
