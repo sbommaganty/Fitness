@@ -8,7 +8,7 @@ Welcome to the Fitness Website! This project is designed to help users track the
 This project utilized the benefits of multiple technologies such as 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
  
 ### Prerequisites
 You will need to install visual studio code. 
