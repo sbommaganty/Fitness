@@ -22,6 +22,8 @@ Its pretty straightforward :
 git clone <repository Url>
 ```
 ## Deployment 💡
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/sbommaganty) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/swamynathan-bommaganty-50a722154/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/sbommaganty)
+
 [![THINK]((https://github.com/sbommaganty)](https://www.linkedin.com/in/swamynathan-bommaganty-50a722154/) [![MAKE](https://github.com/sbommaganty)](https://www.linkedin.com/in/swamynathan-bommaganty-50a722154/) [![SELL](https://www.linkedin.com/in/swamynathan-bommaganty-50a722154/)](https://github.com/sbommaganty)
 
 **Run the application** 
