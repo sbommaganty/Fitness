@@ -1,5 +1,5 @@
 ## 
-Welcome to the Fitness Website! This project is designed to help users track their fitness journey, access workout routines, and stay motivated on their fitness goals. Whether you're a beginner or an experienced fitness enthusiast, our website has something for everyone.
+Welcome to the Fitness Website!
  
 **Link to the website** : 
 
