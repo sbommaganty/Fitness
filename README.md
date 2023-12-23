@@ -1,7 +1,7 @@
 ## 
 Welcome to the Fitness Website!
  
-**Link to the website** : 
+**Link to the website** : https://main.d2rnxvjjtumnwv.amplifyapp.com/
 
 ## Getting Started 🎧
 
