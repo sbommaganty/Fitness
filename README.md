@@ -1,4 +1,4 @@
-## Welcome to the Fitness Website 🏋️
+## Welcome to the Fitness website 🏋️
  
 **Link to the website** : https://main.d2rnxvjjtumnwv.amplifyapp.com/
 
