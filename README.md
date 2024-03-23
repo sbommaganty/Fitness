@@ -38,6 +38,9 @@ Press the ▶️ "Run" button in Visual Studio to execute the program and open t
 ## Built With 🎯
 ** C#**
 
+## References
+https://www.linkedin.com/pulse/exploring-world-linked-lists-understanding-how-work-when-srivastava/
+
 ## Acknowledgments 💖
 
 * To my family👪  and friends 👫 who always kept me motivated.
